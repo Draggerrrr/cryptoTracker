@@ -1,0 +1,20 @@
+.container{
+    justify-content: center;
+    height: 100vh;
+}
+
+#main{
+    background-color: #9DB2BF;
+}
+
+h1,h3{
+     color: #27374D;
+}
+
+.form-control{
+    background-color: #526D82;
+}
+
+.table{
+    visibility: hidden;
+}
